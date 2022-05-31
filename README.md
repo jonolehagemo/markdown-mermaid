@@ -11,7 +11,8 @@ Testing flowchart by using mermaid
 ```
 
 ## example flowchart
-```flow
+```mermaid
+flow
 st=>start: Start
 op=>operation: Your Operation
 cond=>condition: Yes or No?
